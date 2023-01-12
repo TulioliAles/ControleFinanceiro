@@ -12,6 +12,5 @@ namespace ControleFinanceiro.BLL.Models
         public string UsuarioId { get; set; }
         public Usuario Usuario { get; set; }
         public virtual ICollection<Despesa> Despesas { get; set; }
-
     }
 }
