@@ -1,0 +1,13 @@
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.deps.json
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.pdb
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.pdb
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.csproj.AssemblyReference.cache
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.AssemblyInfoInputs.cache
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.AssemblyInfo.cs
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.csproj.CopyComplete
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.pdb

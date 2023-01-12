@@ -1,0 +1,10 @@
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.BLL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.deps.json
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.BLL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.BLL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.pdb
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.csproj.AssemblyReference.cache
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.AssemblyInfoInputs.cache
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.AssemblyInfo.cs
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.dll
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.pdb
