@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eQ5fD6bbhgTly0oKa6INBAyy7Rcgo016P3299bJAt0L2j6EOKvbKT89MMLis/Qm9egGET4MwshAT73esgd74rw==",
+  "dgSpecHash": "9XnxhQ8b/sGswmMaG7+rBvPRJBsUFIWeA0AExKbHtTTqdNA5NDFQ6bBdOuhIX4I7bnKRhODJKsgQ5ojXVLKByA==",
   "success": true,
   "projectFilePath": "C:\\Users\\alessandro.tulioli\\Documents\\ADM\\Projetos_Angular\\ControleFinaceiro\\ControleFinanceiro.API\\ControleFinanceiro.API\\ControleFinanceiro.API.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,7 @@
     "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.32\\microsoft.entityframeworkcore.3.1.32.nupkg.sha512",
     "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.32\\microsoft.entityframeworkcore.abstractions.3.1.32.nupkg.sha512",
     "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.32\\microsoft.entityframeworkcore.analyzers.3.1.32.nupkg.sha512",
+    "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.32\\microsoft.entityframeworkcore.design.3.1.32.nupkg.sha512",
     "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.32\\microsoft.entityframeworkcore.relational.3.1.32.nupkg.sha512",
     "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.32\\microsoft.entityframeworkcore.sqlserver.3.1.32.nupkg.sha512",
     "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",

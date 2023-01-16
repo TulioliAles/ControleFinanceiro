@@ -11,3 +11,6 @@ C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\Con
 C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.csproj.CopyComplete
 C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.dll
 C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.pdb
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.runtimeconfig.json
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\bin\Debug\netcoreapp3.1\ControleFinanceiro.DAL.runtimeconfig.dev.json
+C:\Users\alessandro.tulioli\Documents\ADM\Projetos_Angular\ControleFinaceiro\ControleFinanceiro.DAL\obj\Debug\netcoreapp3.1\ControleFinanceiro.DAL.genruntimeconfig.cache

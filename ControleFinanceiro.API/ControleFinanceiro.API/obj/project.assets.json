@@ -407,6 +407,22 @@
           "lib/netstandard2.0/_._": {}
         }
       },
+      "Microsoft.EntityFrameworkCore.Design/3.1.32": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "Microsoft.EntityFrameworkCore.Relational": "3.1.32"
+        },
+        "compile": {
+          "lib/netstandard2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll": {}
+        },
+        "build": {
+          "build/netcoreapp2.0/Microsoft.EntityFrameworkCore.Design.props": {}
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/3.1.32": {
         "type": "package",
         "dependencies": {
@@ -2485,6 +2501,22 @@
         "lib/netstandard2.0/_._",
         "microsoft.entityframeworkcore.analyzers.3.1.32.nupkg.sha512",
         "microsoft.entityframeworkcore.analyzers.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.Design/3.1.32": {
+      "sha512": "j3J9cHpTBi1zoOVyOsDT27bTZENhqsOij+EPfRWxojxgo5qn3Ayp+xdtxM1E37av7oy4yB+DJTY1pOKYWJtAOQ==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.design/3.1.32",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "build/net461/Microsoft.EntityFrameworkCore.Design.props",
+        "build/netcoreapp2.0/Microsoft.EntityFrameworkCore.Design.props",
+        "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll",
+        "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.xml",
+        "microsoft.entityframeworkcore.design.3.1.32.nupkg.sha512",
+        "microsoft.entityframeworkcore.design.nuspec"
       ]
     },
     "Microsoft.EntityFrameworkCore.Relational/3.1.32": {
@@ -6631,7 +6663,8 @@
       "ControleFinanceiro.BLL >= 1.0.0",
       "ControleFinanceiro.DAL >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 3.1.32",
-      "Microsoft.AspNetCore.SpaServices.Extensions >= 3.1.32"
+      "Microsoft.AspNetCore.SpaServices.Extensions >= 3.1.32",
+      "Microsoft.EntityFrameworkCore.Design >= 3.1.32"
     ]
   },
   "packageFolders": {
@@ -6694,6 +6727,12 @@
             "version": "[3.1.32, )"
           },
           "Microsoft.AspNetCore.SpaServices.Extensions": {
+            "target": "Package",
+            "version": "[3.1.32, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
             "target": "Package",
             "version": "[3.1.32, )"
           }
