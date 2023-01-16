@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5rnBl0QNUaZxgb4SXPDArTN6d5XfwyrJZfufteRRQJ2NFjegKPKxakgXffVLWJJpWVhGw9Q0tgjsrkHeM01TOA==",
+  "dgSpecHash": "eQ5fD6bbhgTly0oKa6INBAyy7Rcgo016P3299bJAt0L2j6EOKvbKT89MMLis/Qm9egGET4MwshAT73esgd74rw==",
   "success": true,
   "projectFilePath": "C:\\Users\\alessandro.tulioli\\Documents\\ADM\\Projetos_Angular\\ControleFinaceiro\\ControleFinanceiro.API\\ControleFinanceiro.API\\ControleFinanceiro.API.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
     "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.aspnetcore.identity\\2.2.0\\microsoft.aspnetcore.identity.2.2.0.nupkg.sha512",
+    "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.32\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.32.nupkg.sha512",
     "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.32\\microsoft.aspnetcore.jsonpatch.3.1.32.nupkg.sha512",
     "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.32\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.32.nupkg.sha512",
     "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\3.1.32\\microsoft.aspnetcore.nodeservices.3.1.32.nupkg.sha512",

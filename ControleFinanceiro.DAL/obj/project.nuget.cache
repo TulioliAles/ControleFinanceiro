@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "e+9qbpoQQEzbu8PYGVQwBDU6eL/+zsG0QqjaQ6YJ2znlQCohJ645MjWOJmC51Dp5EFoW3zqBXHlod9qM9DRbKg==",
+  "dgSpecHash": "dcINz1/2maFYmzVa1UpiOIg1L6ZPRDdbZV1Kwb9cUAULq2DzvJZvxh73WdGfZmZUlQ4Oblb0tM3ShvJxRLk+5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\alessandro.tulioli\\Documents\\ADM\\Projetos_Angular\\ControleFinaceiro\\ControleFinanceiro.DAL\\ControleFinanceiro.DAL.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
     "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.aspnetcore.identity\\2.2.0\\microsoft.aspnetcore.identity.2.2.0.nupkg.sha512",
+    "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.32\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.32.nupkg.sha512",
     "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
     "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\alessandro.tulioli\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
