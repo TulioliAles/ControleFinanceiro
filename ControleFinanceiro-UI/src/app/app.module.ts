@@ -1,3 +1,4 @@
+import { CategoriasService } from './services/categorias.service';
 import { TiposService } from './services/tipos.service';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
@@ -16,6 +17,7 @@ import { AppComponent } from './app.component';
   ],
   providers: [
     TiposService,
+    CategoriasService,
     HttpClientModule
   ],
   bootstrap: [AppComponent]
