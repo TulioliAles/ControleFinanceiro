@@ -4,7 +4,8 @@ import { ListagemCategoriasComponent } from './components/categoria/listagem-cat
 
 const routes: Routes = [
   {
-    path : 'categorias/listagemGategorias', component: ListagemCategoriasComponent
+    path : 'categorias/listagemCategorias',
+    component: ListagemCategoriasComponent,
   }
 ];
 
