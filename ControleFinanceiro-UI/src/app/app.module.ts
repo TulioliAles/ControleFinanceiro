@@ -15,6 +15,7 @@ import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { MatDividerModule } from '@angular/material/divider';
 import { MatSelectModule } from '@angular/material/select';
+import { MatGridListModule } from '@angular/material/grid-list';
 
 import { AppComponent } from './app.component';
 import { ListagemCategoriasComponent } from './components/categoria/listagem-categorias/listagem-categorias.component';
@@ -39,7 +40,8 @@ import { NovaCategoriaComponent } from './components/categoria/nova-categoria/no
     MatFormFieldModule,
     MatInputModule,
     MatDividerModule,
-    MatSelectModule
+    MatSelectModule,
+    MatGridListModule
   ],
   providers: [
     TiposService,
