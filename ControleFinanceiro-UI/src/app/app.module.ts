@@ -20,12 +20,14 @@ import { MatGridListModule } from '@angular/material/grid-list';
 import { AppComponent } from './app.component';
 import { ListagemCategoriasComponent } from './components/categoria/listagem-categorias/listagem-categorias.component';
 import { NovaCategoriaComponent } from './components/categoria/nova-categoria/nova-categoria.component';
+import { AtualizarCategoriaComponent } from './components/categoria/atualizar-categoria/atualizar-categoria.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ListagemCategoriasComponent,
-    NovaCategoriaComponent
+    NovaCategoriaComponent,
+    AtualizarCategoriaComponent
   ],
   imports: [
     BrowserModule,

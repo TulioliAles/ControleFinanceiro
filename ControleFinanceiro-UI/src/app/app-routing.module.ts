@@ -2,6 +2,7 @@ import { NovaCategoriaComponent } from './components/categoria/nova-categoria/no
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { ListagemCategoriasComponent } from './components/categoria/listagem-categorias/listagem-categorias.component';
+import { AtualizarCategoriaComponent } from './components/categoria/atualizar-categoria/atualizar-categoria.component';
 
 const routes: Routes = [
   {
@@ -11,6 +12,10 @@ const routes: Routes = [
   {
     path : 'categorias/novaCategoria',
     component: NovaCategoriaComponent,
+  },
+  {
+    path : 'categorias/atualizarCategoria/:id',
+    component: AtualizarCategoriaComponent,
   }
 ];
 
