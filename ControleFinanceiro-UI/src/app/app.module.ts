@@ -16,9 +16,11 @@ import { MatInputModule } from '@angular/material/input';
 import { MatDividerModule } from '@angular/material/divider';
 import { MatSelectModule } from '@angular/material/select';
 import { MatGridListModule } from '@angular/material/grid-list';
+import {MatDialogModule} from '@angular/material/dialog';
+
 
 import { AppComponent } from './app.component';
-import { ListagemCategoriasComponent } from './components/categoria/listagem-categorias/listagem-categorias.component';
+import { ListagemCategoriasComponent, DialogExclusaoCategoriasComponent } from './components/categoria/listagem-categorias/listagem-categorias.component';
 import { NovaCategoriaComponent } from './components/categoria/nova-categoria/nova-categoria.component';
 import { AtualizarCategoriaComponent } from './components/categoria/atualizar-categoria/atualizar-categoria.component';
 
@@ -27,7 +29,8 @@ import { AtualizarCategoriaComponent } from './components/categoria/atualizar-ca
     AppComponent,
     ListagemCategoriasComponent,
     NovaCategoriaComponent,
-    AtualizarCategoriaComponent
+    AtualizarCategoriaComponent,
+    DialogExclusaoCategoriasComponent
   ],
   imports: [
     BrowserModule,
@@ -43,7 +46,8 @@ import { AtualizarCategoriaComponent } from './components/categoria/atualizar-ca
     MatInputModule,
     MatDividerModule,
     MatSelectModule,
-    MatGridListModule
+    MatGridListModule,
+    MatDialogModule
   ],
   providers: [
     TiposService,
